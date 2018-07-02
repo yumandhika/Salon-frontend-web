@@ -8,6 +8,6 @@ render(React.createElement(
 		'h1',
 		{ id: 'title',
 				className: 'header',
-				style: { backgroundColor: 'orange', color: 'white', fontFamily: 'verdana' } },
-		'Hello World'
+				style: { backgroundColor: 'blue', color: 'white', fontFamily: 'verdana' } },
+		'Hello World udah di ubah'
 ), document.getElementById('react-container'));
